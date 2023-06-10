@@ -1,263 +1,261 @@
-,School,Group,Type
-0,Northwood-Kensett MIddle/High School,10,Ag
-1,Harris-Lake Park High School,7,Ag
-2,Central Lyon Secondary School,13,Ag
-3,Lake Mills Senior High School,10,Ag
-4,Sibley-Ocheyedan High School,13,Ag
-5,Estherville Lincoln Central High School,7,Ag
-6,North Union High School,7,Ag
-7,West Lyon High School,13,Ag
-8,North Iowa High School,15,Ag
-9,St Ansgar High School,10,Ag
-10,Crestwood High School,23,Ag
-11,Kee High School,23,Ag
-12,Riceville High School,10,Ag
-13,George-Little Rock Senior High School,13,Ag
-14,Okoboji High School,7,Ag
-15,Decorah High School,23,Ag
-16,Central Springs High School,10,Ag
-17,Osage High School,10,Ag
-18,Waukon High School,23,Ag
-19,Forest City High School,15,Ag
-20,Graettinger-Terril High School,7,Ag
-21,Rock Valley High School,13,Ag
-22,Western Christian High School,13,Ag
-23,Boyden-Hull High School,13,Ag
-24,Hartley-Melvin-Sanborn High School,24,Ag
-25,Sheldon High School,13,Ag
-26,South Winneshiek High School,23,Ag
-27,Spencer High School,7,Ag
-28,Clear Lake High School,10,Ag
-29,Emmetsburg High School,7,Ag
-30,Turkey Valley Jr-Sr High School,23,Ag
-31,West Hancock High School,15,Ag
-32,Garner-Hayfield-Ventura High School,15,Ag
-33,Sioux Center High School,13,Ag
-34,John R Mott Jr/Hi School,23,Ag
-35,Algona High School,15,Ag
-36,Charles City High School,10,Ag
-37,New Hampton High School,1,Ag
-38,Rockford Junior-Senior High School,10,Ag
-39,MFL MarMac HS,23,Ag
-40,Unity Christian High School,13,Ag
-41,West Sioux High School,13,Ag
-42,MOC-Floyd Valley High School,13,Ag
-43,South O'Brien Secondary School,13,Ag
-44,North Fayette Valley High School,23,Ag
-45,West Bend-Mallard High School,7,Ag
-46,Nashua-Plainfield Junior-SeniorHigh School,1,Ag
-47,North Butler Jr/Sr High School,10,Ag
-48,West Fork High School,10,Ag
-49,Sioux Central High School,24,Ag
-50,Central Middle School/High School,23,Ag
-51,Sumner-Fredericksburg HS,22,Ag
-52,Belmond-Klemme Community Jr-Sr High School,15,Ag
-53,Akron Westfield Senior High School,13,Ag
-54,MMCRU  High School,13,Ag
-55,Clayton Ridge High School,20,Ag
-56,Le Mars High School,13,Ag
-57,Washington High School,18,Ag
-58,Washington High School,24,Ag
-59,Hampton-Dumont High School,10,Ag
-60,Clarion-Goldfield-Dows High School,15,Ag
-61,Pocahontas Area Middle/ High School,7,Ag
-62,Waverly-Shell Rock Senior High School,1,Ag
-63,Humboldt High School,15,Ag
-64,Starmont High School,22,Ag
-65,Wapsie Valley High School,22,Ag
-66,Oelwein High School,22,Ag
-67,Denver Senior High School,1,Ag
-68,Eagle Grove High School,15,Ag
-69,Alta-Aurelia High School,24,Ag
-70,Edgewood-Colesburg High School,12,Ag
-71,St Mary's High School,24,Ag
-72,Hinton High School,3,Ag
-73,Newell-Fonda High School,24,Ag
-74,Kingsley-Pierson High School,3,Ag
-75,Aplington-Parkersburg High School,1,Ag
-76,Dunkerton High School,22,Ag
-77,AGWSR High School,5,Ag
-78,Iowa Falls - Alden High School,5,Ag
-79,Manson Northwest Webster Junior High/High School,19,Ag
-80,Fort Dodge High School,15,Ag
-81,West Delaware High School,12,Ag
-82,Ridge View High School,24,Ag
-83,Woodbury Central High School,3,Ag
-84,River Valley Junior- Senior High School,3,Ag
-85,Jesup High School,22,Ag
-86,Lawton-Bronson Junior-Senior High School,3,Ag
-87,East Buchanan High School,22,Ag
-88,Beckman Catholic HS,20,Ag
-89,Dike-New Hartford High School,1,Ag
-90,Webster City High School,15,Ag
-91,Independence Junior Senior High School,22,Ag
-92,East High School (Sioux City),3,Ag
-93,Western Dubuque High School,20,Ag
-94,Maquoketa Valley Senior High School,12,Ag
-95,Hudson High School,1,Ag
-96,South Hardin High School,5,Ag
-97,Grundy Center High School,1,Ag
-98,Odebolt Arthur Battle Creek Ida Grove High School,24,Ag
-99,Gladbrook-Reinbeck Jr. High & High School,1,Ag
-100,Union High School,1,Ag
-101,East Sac County High School,19,Ag
-102,South Hamilton Middle And High School,15,Ag
-103,Cascade Junior-Senior High School,20,Ag
-104,North-Linn Senior High School,12,Ag
-105,Southeast Valley High School,19,Ag
-106,South Central Calhoun High School,19,Ag
-107,Bellevue High School,20,Ag
-108,Monticello High School,12,Ag
-109,Westwood High School,3,Ag
-110,BCLUW High School,5,Ag
-111,Central City High School,12,Ag
-112,Roland-Story High School,14,Ag
-113,North Tama High School,1,Ag
-114,Maple Valley-Anthon Oto High School,3,Ag
-115,Vinton-Shellsburg High School,9,Ag
-116,Alburnett Senior High School,12,Ag
-117,Anamosa High School,12,Ag
-118,Gilbert  High School,14,Ag
-119,GMG Secondary School,5,Ag
-120,Carroll High School,19,Ag
-121,Boone High School,14,Ag
-122,Glidden-Ralston Jr-Sr High School,19,Ag
-123,Midland Middle/High  School,20,Ag
-124,Maquoketa Community High School,4,Ag
-125,Linn-Mar High School,12,Ag
-126,Easton Valley Junior High / High School,4,Ag
-127,Ames High School,14,Ag
-128,Ogden High School,14,Ag
-129,Greene County High School,19,Ag
-130,Marshalltown High School,5,Ag
-131,Denison High School,19,Ag
-132,Nevada High School,5,Ag
-133,West Monona High School,3,Ag
-134,West Marshall High School,5,Ag
-135,Benton Community Senior High School,9,Ag
-136,Colo-NESCO  Middle/High School,5,Ag
-137,East Marshall Senior High School,5,Ag
-138,South Tama County High School,9,Ag
-139,Northeast Middle-High School,4,Ag
-140,IKM-Manning High School,19,Ag
-141,Prairie High School (Cedar Rapids),12,Ag
-142,Ballard High School,14,Ag
-143,Collins-Maxwell Middle/High School,5,Ag
-144,Belle Plaine Jr/Sr High School,9,Ag
-145,North Cedar Jr/Sr High School,4,Ag
-146,Coon Rapids-Bayard 6-12 Attendance Center,19,Ag
-147,Woodward-Granger High School,14,Ag
-148,Boyer Valley Middle/High School,6,Ag
-149,Calamus-Wheatland Sec Attendance Center,4,Ag
-150,Baxter High School,5,Ag
-151,Central DeWitt  High School,4,Ag
-152,North Polk High School,14,Ag
-153,Iowa Valley Jr-Sr High School,9,Ag
-154,Tipton High School,18,Ag
-155,Grinnell Community Senior High School,5,Ag
-156,H-L-V Junior-Senior High School,9,Ag
-157,Audubon Middle-High School,19,Ag
-158,Bondurant-Farrar High School,14,Ag
-159,West Harrison Middle School/High School,6,Ag
-160,Clear Creek Amana High School,18,Ag
-161,Panorama High School,2,Ag
-162,Dallas Center-Grimes High School,14,Ag
-163,Newton Senior High  School,5,Ag
-164,Colfax-Mingo Jr/Sr High School,5,Ag
-165,West Branch High School,18,Ag
-166,Guthrie Center High School,2,Ag
-167,Williamsburg Jr-Sr High School,9,Ag
-168,Harlan High School,6,Ag
-169,North Scott High School,4,Ag
-170,OneSchool Global - Des Moines / Central Campus,14,Ag
-171,ADM Senior High School,14,Ag
-172,Waukee High School,14,Ag
-173,Southeast Polk High School,14,Ag
-174,Dowling Catholic High School,14,Ag
-175,Wilton Jr-Sr High School,4,Ag
-176,ExiraElk Horn-Kimballton High School,19,Ag
-177,Montezuma High School,9,Ag
-178,Lynnville-Sully High School,11,Ag
-179,West Liberty High School,18,Ag
-180,Missouri Valley High School,6,Ag
-181,Iowa Mennonite School dba Hillcrest Academy,18,Ag
-182,Van Meter High School,14,Ag
-183,English Valleys Jr-Sr High School,9,Ag
-184,PCM High School,11,Ag
-185,West Central Valley High School,2,Ag
-186,Tri-Center High School,6,Ag
-187,Earlham Senior High School,2,Ag
-188,Lone Tree Middle-Senior High School,18,Ag
-189,AHSTW High School,6,Ag
-190,Mid-Prairie High School,18,Ag
-191,North Mahaska Jr-Sr High School,11,Ag
-192,Tri-County JR/SR High School,9,Ag
-193,CAM High School,2,Ag
-194,Muscatine High School,18,Ag
-195,Highland High School,18,Ag
-196,Pella High School,11,Ag
-197,Atlantic High School,2,Ag
-198,Pella Christian High School,11,Ag
-199,Pleasantville High School,11,Ag
-200,Martensdale-St Marys Jr-Sr High School,14,Ag
-201,Keota High School,9,Ag
-202,Indianola High School,14,Ag
-203,Sigourney Jr-Sr High Sch,21,Ag
-204,Winterset Senior High School,17,Ag
-205,Knoxville High School,11,Ag
-206,Nodaway Valley High School,2,Ag
-207,Oskaloosa High School,11,Ag
-208,Louisa-Muscatine JR/SR High School,18,Ag
-209,Riverside Community High School,6,Ag
-210,Washington High School,18,Ag
-211,Washington High School,24,Ag
-212,Columbus Community High School,18,Ag
-213,Griswold Middle/High School,16,Ag
-214,Melcher-Dallas High School,11,Ag
-215,Twin Cedars Jr-Sr High School,11,Ag
-216,Interstate 35 High School,17,Ag
-217,Southeast Warren Jr-Sr High School,14,Ag
-218,Orient-Macksburg Senior High School,2,Ag
-219,Wapello Senior High School,8,Ag
-220,Eddyville-Blakesburg-Fremont Jr/Sr High,11,Ag
-221,Pekin Community Junior/ Senior High School,21,Ag
-222,WACO High School,8,Ag
-223,Winfield-Mt Union Jr-Sr High School,8,Ag
-224,Creston High School,2,Ag
-225,Glenwood Senior High School,6,Ag
-226,Clarke Community High School,17,Ag
-227,Murray Jr/Sr High,17,Ag
-228,Albia High School,11,Ag
-229,East Union Middle-High School,17,Ag
-230,Red Oak Junior/Senior High School,16,Ag
-231,Chariton High School,11,Ag
-232,Ottumwa High School,21,Ag
-233,Mediapolis High School,8,Ag
-234,East Mills Jr/Sr High School,16,Ag
-235,Fairfield High School,21,Ag
-236,Southwest Valley High school,2,Ag
-237,Stanton High School,16,Ag
-238,Cardinal High School,21,Ag
-239,Mount Pleasant High School,8,Ag
-240,Fremont-Mills Middle And Senior High School,16,Ag
-241,Moravia High School,11,Ag
-242,Lenox High School,2,Ag
-243,Danville Junior-Senior High School,8,Ag
-244,Essex Junior-Senior High School,16,Ag
-245,Mormon Trail Jr-Sr High School,17,Ag
-246,Wayne Community Jr-Sr High School,11,Ag
-247,Davis County Community High School,21,Ag
-248,Shenandoah High School,16,Ag
-249,Central Decatur MS/HS High School,17,Ag
-250,Sidney High School,16,Ag
-251,Clarinda High School,16,Ag
-252,Van Buren County Community Middle & High School,21,Ag
-253,Mount Ayr High School,17,Ag
-254,Moulton-Udell High School,21,Ag
-255,Centerville High School,11,Ag
-256,Seymour High School,11,Ag
-257,Bedford High School,16,Ag
-258,Fort Madison High School,8,Ag
-259,Lamoni High School,17,Ag
-260,South Page Senior High School,16,Ag
-261,Central Lee High School,8,Ag
+,School,Group
+0,Northwood-Kensett MIddle/High School,6
+1,Harris-Lake Park High School,22
+2,Central Lyon Secondary School,1
+3,Lake Mills Senior High School,6
+4,Sibley-Ocheyedan High School,24
+5,Estherville Lincoln Central High School,22
+6,North Union High School,22
+7,West Lyon High School,1
+8,North Iowa High School,6
+9,St Ansgar High School,14
+10,Crestwood High School,11
+11,Kee High School,11
+12,Riceville High School,14
+13,George-Little Rock Senior High School,24
+14,Okoboji High School,22
+15,Decorah High School,11
+16,Central Springs High School,6
+17,Osage High School,14
+18,Waukon High School,11
+19,Forest City High School,6
+20,Graettinger-Terril High School,22
+21,Rock Valley High School,1
+22,Western Christian High School,24
+23,Boyden-Hull High School,24
+24,Hartley-Melvin-Sanborn High School,24
+25,Sheldon High School,24
+26,South Winneshiek High School,11
+27,Spencer High School,22
+28,Clear Lake High School,6
+29,Emmetsburg High School,22
+30,Turkey Valley Jr-Sr High School,11
+31,West Hancock High School,6
+32,Garner-Hayfield-Ventura High School,6
+33,Sioux Center High School,24
+34,John R Mott Jr/Hi School,11
+35,Algona High School,13
+36,Charles City High School,14
+37,New Hampton High School,14
+38,Rockford Junior-Senior High School,14
+39,MFL MarMac HS,11
+40,Unity Christian High School,24
+41,West Sioux High School,1
+42,MOC-Floyd Valley High School,24
+43,South O'Brien Secondary School,24
+44,North Fayette Valley High School,11
+45,West Bend-Mallard High School,13
+46,Nashua-Plainfield Junior-SeniorHigh School,14
+47,North Butler Jr/Sr High School,14
+48,West Fork High School,6
+49,Sioux Central High School,7
+50,Central Middle School/High School,11
+51,Sumner-Fredericksburg HS,19
+52,Belmond-Klemme Community Jr-Sr High School,6
+53,Akron Westfield Senior High School,1
+54,MMCRU  High School,24
+55,Clayton Ridge High School,11
+56,Le Mars High School,24
+57,Washington High School,7
+58,Hampton-Dumont High School,6
+59,Clarion-Goldfield-Dows High School,6
+60,Pocahontas Area Middle/ High School,13
+61,Waverly-Shell Rock Senior High School,14
+62,Humboldt High School,13
+63,Starmont High School,11
+64,Wapsie Valley High School,19
+65,Oelwein High School,19
+66,Denver Senior High School,19
+67,Eagle Grove High School,13
+68,Alta-Aurelia High School,7
+69,Edgewood-Colesburg High School,16
+70,St Mary's High School,7
+71,Hinton High School,15
+72,Newell-Fonda High School,7
+73,Kingsley-Pierson High School,15
+74,Aplington-Parkersburg High School,2
+75,Dunkerton High School,19
+76,AGWSR High School,2
+77,Iowa Falls - Alden High School,2
+78,Manson Northwest Webster Junior High/High School,13
+79,Fort Dodge High School,13
+80,West Delaware High School,16
+81,Ridge View High School,7
+82,Woodbury Central High School,15
+83,River Valley Junior- Senior High School,15
+84,Jesup High School,19
+85,Lawton-Bronson Junior-Senior High School,15
+86,East Buchanan High School,19
+87,Beckman Catholic HS,16
+88,Dike-New Hartford High School,2
+89,Webster City High School,13
+90,Independence Junior Senior High School,19
+91,East High School (Sioux City),15
+92,Western Dubuque High School,5
+93,Maquoketa Valley Senior High School,16
+94,Hudson High School,19
+95,South Hardin High School,2
+96,Grundy Center High School,2
+97,Odebolt Arthur Battle Creek Ida Grove High School,7
+98,Gladbrook-Reinbeck Jr. High & High School,2
+99,Union High School,19
+100,East Sac County High School,7
+101,South Hamilton Middle And High School,9
+102,Cascade Junior-Senior High School,5
+103,North-Linn Senior High School,16
+104,Southeast Valley High School,13
+105,South Central Calhoun High School,18
+106,Bellevue High School,5
+107,Monticello High School,16
+108,Westwood High School,15
+109,BCLUW High School,2
+110,Central City High School,16
+111,Roland-Story High School,9
+112,North Tama High School,2
+113,Maple Valley-Anthon Oto High School,15
+114,Vinton-Shellsburg High School,19
+115,Alburnett Senior High School,16
+116,Anamosa High School,16
+117,Gilbert  High School,9
+118,GMG Secondary School,2
+119,Carroll High School,18
+120,Boone High School,9
+121,Glidden-Ralston Jr-Sr High School,18
+122,Midland Middle/High  School,5
+123,Maquoketa Community High School,5
+124,Linn-Mar High School,16
+125,Easton Valley Junior High / High School,5
+126,Ames High School,9
+127,Ogden High School,9
+128,Greene County High School,18
+129,Marshalltown High School,2
+130,Denison High School,18
+131,Nevada High School,9
+132,West Monona High School,15
+133,West Marshall High School,2
+134,Benton Community Senior High School,8
+135,Colo-NESCO  Middle/High School,9
+136,East Marshall Senior High School,2
+137,South Tama County High School,2
+138,Northeast Middle-High School,5
+139,IKM-Manning High School,18
+140,Prairie High School (Cedar Rapids),16
+141,Ballard High School,9
+142,Collins-Maxwell Middle/High School,9
+143,Belle Plaine Jr/Sr High School,8
+144,North Cedar Jr/Sr High School,5
+145,Coon Rapids-Bayard 6-12 Attendance Center,18
+146,Woodward-Granger High School,9
+147,Boyer Valley Middle/High School,10
+148,Calamus-Wheatland Sec Attendance Center,5
+149,Baxter High School,20
+150,Central DeWitt  High School,5
+151,North Polk High School,9
+152,Iowa Valley Jr-Sr High School,8
+153,Tipton High School,21
+154,Grinnell Community Senior High School,20
+155,H-L-V Junior-Senior High School,8
+156,Audubon Middle-High School,18
+157,Bondurant-Farrar High School,9
+158,West Harrison Middle School/High School,10
+159,Clear Creek Amana High School,8
+160,Panorama High School,4
+161,Dallas Center-Grimes High School,9
+162,Newton Senior High  School,20
+163,Colfax-Mingo Jr/Sr High School,20
+164,West Branch High School,21
+165,Guthrie Center High School,18
+166,Williamsburg Jr-Sr High School,8
+167,Harlan High School,10
+168,North Scott High School,5
+169,OneSchool Global - Des Moines / Central Campus,9
+170,ADM Senior High School,9
+171,Waukee High School,9
+172,Southeast Polk High School,9
+173,Dowling Catholic High School,9
+174,Wilton Jr-Sr High School,21
+175,ExiraElk Horn-Kimballton High School,18
+176,Montezuma High School,8
+177,Lynnville-Sully High School,20
+178,West Liberty High School,21
+179,Missouri Valley High School,10
+180,Iowa Mennonite School dba Hillcrest Academy,8
+181,Van Meter High School,9
+182,English Valleys Jr-Sr High School,8
+183,PCM High School,20
+184,West Central Valley High School,4
+185,Tri-Center High School,10
+186,Earlham Senior High School,4
+187,Lone Tree Middle-Senior High School,21
+188,AHSTW High School,10
+189,Mid-Prairie High School,8
+190,North Mahaska Jr-Sr High School,20
+191,Tri-County JR/SR High School,8
+192,CAM High School,18
+193,Muscatine High School,21
+194,Highland High School,21
+195,Pella High School,20
+196,Atlantic High School,18
+197,Pella Christian High School,20
+198,Pleasantville High School,20
+199,Martensdale-St Marys Jr-Sr High School,23
+200,Keota High School,8
+201,Indianola High School,23
+202,Sigourney Jr-Sr High Sch,8
+203,Winterset Senior High School,4
+204,Knoxville High School,20
+205,Nodaway Valley High School,4
+206,Oskaloosa High School,20
+207,Louisa-Muscatine JR/SR High School,21
+208,Riverside Community High School,10
+209,Washington High School,3
+210,Columbus Community High School,21
+211,Griswold Middle/High School,17
+212,Melcher-Dallas High School,20
+213,Twin Cedars Jr-Sr High School,20
+214,Interstate 35 High School,23
+215,Southeast Warren Jr-Sr High School,23
+216,Orient-Macksburg Senior High School,4
+217,Wapello Senior High School,21
+218,Eddyville-Blakesburg-Fremont Jr/Sr High,12
+219,Pekin Community Junior/ Senior High School,8
+220,WACO High School,3
+221,Winfield-Mt Union Jr-Sr High School,3
+222,Creston High School,4
+223,Glenwood Senior High School,10
+224,Clarke Community High School,23
+225,Murray Jr/Sr High,23
+226,Albia High School,12
+227,East Union Middle-High School,4
+228,Red Oak Junior/Senior High School,17
+229,Chariton High School,23
+230,Ottumwa High School,12
+231,Mediapolis High School,3
+232,East Mills Jr/Sr High School,10
+233,Fairfield High School,3
+234,Southwest Valley High school,17
+235,Stanton High School,17
+236,Cardinal High School,12
+237,Mount Pleasant High School,3
+238,Fremont-Mills Middle And Senior High School,10
+239,Moravia High School,12
+240,Lenox High School,4
+241,Danville Junior-Senior High School,3
+242,Essex Junior-Senior High School,17
+243,Mormon Trail Jr-Sr High School,23
+244,Wayne Community Jr-Sr High School,23
+245,Davis County Community High School,12
+246,Shenandoah High School,17
+247,Central Decatur MS/HS High School,23
+248,Sidney High School,17
+249,Clarinda High School,17
+250,Van Buren County Community Middle & High School,3
+251,Mount Ayr High School,4
+252,Moulton-Udell High School,12
+253,Centerville High School,12
+254,Seymour High School,12
+255,Bedford High School,17
+256,Fort Madison High School,3
+257,Lamoni High School,23
+258,South Page Senior High School,17
+259,Central Lee High School,3
